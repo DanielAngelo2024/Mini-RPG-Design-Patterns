@@ -1,10 +1,9 @@
-[🇺🇸](?plain=4#)
+[🇺🇸](?plain=1#L4)
 
-[🇧🇷](?plain=160#)
+[🇧🇷](?plain=1#L160)
 
 
 # 🎮 Mini RPG in Java - Design Patterns - Accenture Bootcamp - Java & Cloud Development
-=====================================================================================
 
 Project of a **console-based mini RPG game**, developed in **Java**, focused on studying and applying **design patterns**.
 
