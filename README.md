@@ -1,6 +1,6 @@
-[🇺🇸](📌-objective)
+[🇺🇸](##📌-objective)
 
-[🇧🇷](📌-Objetivo)
+[🇧🇷](##📌-Objetivo)
 
 
 # 🎮 Mini RPG in Java - Design Patterns - Accenture Bootcamp - Java & Cloud Development
