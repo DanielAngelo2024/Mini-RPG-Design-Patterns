@@ -1,4 +1,9 @@
-🎮 Mini RPG in Java - Design Patterns - Accenture Bootcamp - Java & Cloud Development
+[🇺🇸](?plain=4#)
+
+[🇧🇷](?plain=160#)
+
+
+# 🎮 Mini RPG in Java - Design Patterns - Accenture Bootcamp - Java & Cloud Development
 =====================================================================================
 
 Project of a **console-based mini RPG game**, developed in **Java**, focused on studying and applying **design patterns**.
@@ -159,7 +164,6 @@ Projeto de um **mini jogo RPG em console**, desenvolvido em **Java**, com foco n
 
 O sistema utiliza os padrões **Singleton**, **Strategy** e **Facade**, inspirados nos conceitos apresentados no bootcamp Accenture - Desenvolvimento Java & Cloud.
 
----
 
 ## 📌 Objetivo
 
@@ -175,8 +179,6 @@ Este projeto tem como objetivo:
 
 O jogo simula um sistema simples de combate entre jogador e inimigo, com troca dinâmica de armas.
 
----
-
 ## 🕹️ Funcionalidades
 
 ✔ Combate em turnos
@@ -191,7 +193,6 @@ O jogo simula um sistema simples de combate entre jogador e inimigo, com troca d
 
 ✔ Estrutura modular e escalável
 
----
 
 ## 🧩 Padrões de Projeto Utilizados
 
@@ -209,7 +210,6 @@ Função:
 
 - Gerencia jogador e inimigos
 
----
 
 ### 🔹 Strategy
 
@@ -231,7 +231,6 @@ Função:
 
 - Trocar armas sem modificar o código principal
 
----
 
 ### 🔹 Facade
 
@@ -247,7 +246,6 @@ Função:
 
 - Oculta a complexidade interna
 
----
 ## ▶️ Como Executar
 
 ### Pré-requisitos
