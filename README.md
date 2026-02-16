@@ -288,7 +288,7 @@ Desenvolvido por Daniel
 
 Estudante de Engenharia de Software
 
-📎 [LinkedIn](www.linkedin.com/in/daniel-angelo-software-engineer)
+📎 [LinkedIn](https://www.linkedin.com/in/daniel-angelo-software-engineer)
 
 📎 [GitHub](https://github.com/DanielAngelo2024)
 
