@@ -1,6 +1,4 @@
-[🇺🇸](https://github.com/DanielAngelo2024/Mini-RPG-Design-Patterns?tab=readme-ov-file#-mini-rpg-in-java---design-patterns---accenture-bootcamp---java--cloud-development)
-
-[🇧🇷](https://github.com/DanielAngelo2024/Mini-RPG-Design-Patterns?tab=readme-ov-file#-mini-rpg-em-java---design-patterns---bootcamp-accenture---desenvolvimento-java--cloud)
+[Clique aqui para ler em português](https://github.com/DanielAngelo2024/Mini-RPG-Design-Patterns?tab=readme-ov-file#-mini-rpg-em-java---design-patterns---bootcamp-accenture---desenvolvimento-java--cloud)
 
 
 # 🎮 Mini RPG in Java - Design Patterns - Accenture Bootcamp - Java & Cloud Development
