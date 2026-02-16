@@ -1,6 +1,6 @@
-[🇺🇸](?plain=1#L4)
+[🇺🇸](📌-objective)
 
-[🇧🇷](?plain=1#L160)
+[🇧🇷](📌-Objetivo)
 
 
 # 🎮 Mini RPG in Java - Design Patterns - Accenture Bootcamp - Java & Cloud Development
@@ -9,8 +9,8 @@ Project of a **console-based mini RPG game**, developed in **Java**, focused on 
 
 The system uses the **Singleton**, **Strategy**, and **Facade** patterns, inspired by the concepts presented in the Accenture Java & Cloud Development Bootcamp.
 
-📌 Objective
-------------
+## 📌 Objective
+
 
 This project aims to:
 
@@ -25,8 +25,7 @@ This project aims to:
 
 The game simulates a simple combat system between a player and an enemy, with dynamic weapon switching.
 
-🕹️ Features
-------------
+## 🕹️ Features
 
 ✔ Turn-based combat
 
@@ -40,8 +39,7 @@ The game simulates a simple combat system between a player and an enemy, with dy
 
 ✔ Modular and scalable structure
 
-🧩 Design Patterns Used
------------------------
+## 🧩 Design Patterns Used
 
 ### 🔹 Singleton
 
@@ -95,8 +93,7 @@ Purpose:
 *   Hides internal complexity
     
 
-▶️ How to Run
--------------
+##▶️ How to Run
 
 ### Prerequisites
 
@@ -124,8 +121,7 @@ You dealt 25 damage!
 
 The enemy attacked!
 
-📚 Technologies Used
---------------------
+## 📚 Technologies Used
 
 Java
 
@@ -135,8 +131,7 @@ Design Patterns
 
 Git/GitHub
 
-👨‍💻 Author
-------------
+## 👨‍💻 Author
 
 Developed by DanielAngelo2024
 
@@ -146,8 +141,7 @@ Software Engineering Student
 
 📎 [GitHub](https://github.com/DanielAngelo2024)
 
-📄 License
-----------
+## 📄 License
 
 This project is licensed under the MIT License.
 
